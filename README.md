@@ -36,3 +36,15 @@ This repository contains the tasks completed as part of my Python Programming In
 ---
 
 ## 📂 Project Structure
+
+---
+
+## ✅ Task 3: Password Generator
+📌 A Python-based application that generates strong and random passwords.
+
+### Features:
+- User-defined password length
+- Includes uppercase, lowercase, digits, and special characters
+- Generates secure and random passwords
+
+---
