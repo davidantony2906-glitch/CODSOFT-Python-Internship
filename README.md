@@ -1,7 +1,7 @@
 # CODSOFT-Python-Internship
 Python Internship Tasks - CodSoft
 
-# 🚀 CODSOFT - Python Internship Tasks
+#  CODSOFT - Python Internship Tasks
 
 This repository contains the tasks completed as part of my Python Programming Internship at CodSoft.
 
