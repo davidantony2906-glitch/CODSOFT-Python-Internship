@@ -48,3 +48,23 @@ This repository contains the tasks completed as part of my Python Programming In
 - Generates secure and random passwords
 
 ---
+
+## ✅ Task 4: Rock-Paper-Scissors Game
+
+📌 A simple Python game where the user plays against the computer.
+
+### Features:
+- User input (rock, paper, scissors)
+- Random computer choice
+- Game logic to determine winner
+- Displays result (win/lose/tie)
+- Score tracking for multiple rounds
+- Play again option
+ ---
+## 🛠️ Technologies Used
+- Python
+- Random module
+- Functions
+- Loops (while loop)
+- Conditional Statements (if-else)
+---
