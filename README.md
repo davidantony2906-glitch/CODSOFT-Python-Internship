@@ -38,7 +38,9 @@ This repository contains the tasks completed as part of my Python Programming In
 ## 🛠️ Technologies Used
 - Python
 - Tkinter
-- 
+- Functions
+- Event Handling
+- Conditional Statements (if-else)
 ---
 
 ## ✅ Task 3: Password Generator
