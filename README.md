@@ -15,7 +15,13 @@ This repository contains the tasks completed as part of my Python Programming In
 - View tasks
 - Update tasks
 - Delete tasks
-
+---
+## 🛠️ Technologies Used
+- Python
+- Functions
+- File Handling (to store tasks)
+- Loops (while loop)
+- Conditional Statements (if-else)
 ---
 
 ## ✅ Task 2: Calculator App
@@ -32,11 +38,7 @@ This repository contains the tasks completed as part of my Python Programming In
 ## 🛠️ Technologies Used
 - Python
 - Tkinter
-
----
-
-## 📂 Project Structure
-
+- 
 ---
 
 ## ✅ Task 3: Password Generator
@@ -46,7 +48,14 @@ This repository contains the tasks completed as part of my Python Programming In
 - User-defined password length
 - Includes uppercase, lowercase, digits, and special characters
 - Generates secure and random passwords
-
+---
+## 🛠️ Technologies Used
+- Python
+- Random module
+- String module
+- Functions
+- Loops (for loop)
+- Conditional Statements (if-else)
 ---
 
 ## ✅ Task 4: Rock-Paper-Scissors Game
